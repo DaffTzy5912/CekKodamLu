@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Kucing Garong",
+    "icon": "fa-cat",
+    "description": "Muncul saat lapar tengah malam. Memberi keberanian buat order makanan online."
+  },
+  {
+    "name": "Kodok Santuy",
+    "icon": "fa-frog",
+    "description": "Memberikan aura rebahan dan ketenangan hakiki."
+  },
+  {
+    "name": "Naga Kentut",
+    "icon": "fa-dragon",
+    "description": "Menebar bau mistis yang bikin semua kabur."
+  },
+  {
+    "name": "Monyet Scroll",
+    "icon": "fa-monkey",
+    "description": "Bertugas menemani scroll TikTok sampai subuh."
+  },
+  {
+    "name": "Tikus Wibu",
+    "icon": "fa-mouse",
+    "description": "Selalu muncul saat kamu buka anime jam 3 pagi."
+  },
+  {
+    "name": "Kambing Halusinasi",
+    "icon": "fa-hippo",
+    "description": "Memberikan inspirasi absurd dan mimpi gak masuk akal."
+  },
+  {
+    "name": "Bebek Gabut",
+    "icon": "fa-dove",
+    "description": "Menggoda kamu untuk ngunyah cemilan tiap 5 menit."
+  },
+  {
+    "name": "Ayam Perenung",
+    "icon": "fa-feather-pointed",
+    "description": "Suka datang waktu kamu rebahan mikirin hidup."
+  },
+  {
+    "name": "Sapi Santai",
+    "icon": "fa-cow",
+    "description": "Bikin kamu tidur di saat kerja kelompok."
+  },
+  {
+    "name": "Burung Halu",
+    "icon": "fa-crow",
+    "description": "Membisikkan teori konspirasi yang aneh-aneh."
+  }
+]
