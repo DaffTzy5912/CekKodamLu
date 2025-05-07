@@ -105,3 +105,9 @@ function showNotification(message) {
     notification.remove();
   }, 2500);
 }
+
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js')
+    .then(reg => console.log('Service Worker: Registered', reg.scope))
+    .catch(err => console.error('Service Worker: Registration Failed', err));
+}
