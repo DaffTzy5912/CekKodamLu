@@ -2,20 +2,33 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Cek Khodam Lucu</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cek Khodam</title>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <body>
   <div class="container">
-    <h1>Cek Khodam Lucu</h1>
-    <input type="text" id="namaInput" placeholder="Masukkan nama kamu">
-    <button onclick="cekKhodam()">Cek Khodam</button>
+    <div class="card">
+      <div class="header">
+        <h1><i class="fas fa-magic"></i> Cek Khodam</h1>
+        <p class="subtitle">Temukan khodam pelindung dan penjagamu!</p>
+      </div>
+      
+      <div class="input-group">
+        <input type="text" id="namaInput" placeholder="Masukkan nama kamu">
+        <button onclick="cekKhodam()">
+          <i class="fas fa-search"></i> Cek
+        </button>
+      </div>
 
-    <div id="hasil"></div>
+      <div id="hasil" class="hasil-container"></div>
+    </div>
 
-    <h2>Riwayat Khodam</h2>
-    <div id="riwayat"></div>
+    <div class="card history-card">
+      <h2><i class="fas fa-history"></i> Riwayat Khodam</h2>
+      <div id="riwayat" class="riwayat-container"></div>
+    </div>
   </div>
 
   <script src="script.js"></script>
