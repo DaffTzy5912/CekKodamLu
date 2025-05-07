@@ -48,5 +48,105 @@
     "name": "Burung Halu",
     "icon": "fa-crow",
     "description": "Membisikkan teori konspirasi yang aneh-aneh."
+  },
+  {
+    "name": "Kelelawar Insomnia",
+    "icon": "fa-bat",
+    "description": "Muncul saat jam 2 pagi dan membisikkan 'Ayo nonton satu episode lagi'"
+  },
+  {
+    "name": "Kecoa Panic",
+    "icon": "fa-bug",
+    "description": "Datang tiba-tiba dan bikin kamu loncat dari tempat tidur"
+  },
+  {
+    "name": "Babi Boros",
+    "icon": "fa-piggy-bank",
+    "description": "Mendorong kamu belanja online di tengah malam saat gajian"
+  },
+  {
+    "name": "Burung Skripsi",
+    "icon": "fa-pen-fancy",
+    "description": "Selalu terbang menjauh saat kamu mulai mengerjakan tugas akhir"
+  },
+  {
+    "name": "Ular Gosip",
+    "icon": "fa-snake",
+    "description": "Membisikkan drama kehidupan teman yang tak perlu kamu ketahui"
+  },
+  {
+    "name": "Tupai Overthinking",
+    "icon": "fa-squirrel",
+    "description": "Berlari di kepalamu dengan seribu skenario terburuk"
+  },
+  {
+    "name": "Landak Sensitif",
+    "icon": "fa-star",
+    "description": "Membuatmu tersinggung oleh komentar random di sosmed"
+  },
+  {
+    "name": "Jerapah Kepo",
+    "icon": "fa-binoculars",
+    "description": "Mendorongmu stalking mantan sampai foto 7 tahun lalu"
+  },
+  {
+    "name": "Beruang Malas",
+    "icon": "fa-bear",
+    "description": "Membuatmu hibernasi dan skip semua janji penting"
+  },
+  {
+    "name": "Rusa Deadline",
+    "icon": "fa-deer",
+    "description": "Muncul mendadak mengingatkan tugas yang hampir terlupakan"
+  },
+  {
+    "name": "Laba-laba Stalker",
+    "icon": "fa-spider",
+    "description": "Mendorong untuk cek profil orang yang bahkan tidak kamu kenal"
+  },
+  {
+    "name": "Kadal Procrastinator",
+    "icon": "fa-lizard",
+    "description": "Membisikkan 'Besok aja, masih ada waktu kok'"
+  },
+  {
+    "name": "Anjing Drama",
+    "icon": "fa-dog",
+    "description": "Membuat masalah kecil jadi seperti bencana nasional"
+  },
+  {
+    "name": "Gajah Pelupa",
+    "icon": "fa-elephant",
+    "description": "Membuatmu lupa tujuan awal masuk ke suatu ruangan"
+  },
+  {
+    "name": "Lebah Multitasking",
+    "icon": "fa-bee",
+    "description": "Membuatmu membuka 27 tab browser tapi tak satu pun selesai"
+  },
+  {
+    "name": "Kuda Anxiety",
+    "icon": "fa-horse",
+    "description": "Berlari kencang di pikiranmu saat coba tidur sebelum hari penting"
+  },
+  {
+    "name": "Ikan Ghosting",
+    "icon": "fa-fish",
+    "description": "Membuatmu hilang dari percakapan tanpa penjelasan"
+  },
+  {
+    "name": "Katak FOMO",
+    "icon": "fa-frog",
+    "description": "Membuatmu takut ketinggalan event meski kamu sudah kelelahan"
+  },
+  {
+    "name": "Penguin Awkward",
+    "icon": "fa-penguin",
+    "description": "Membuatmu canggung dalam situasi sosial normal"
+  },
+  {
+    "name": "Rubah Gombal",
+    "icon": "fa-fox",
+    "description": "Memberimu kata-kata manis yang tak pernah kamu sampaikan"
   }
 ]
