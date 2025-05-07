@@ -148,5 +148,155 @@
     "name": "Rubah Gombal",
     "icon": "fa-fox",
     "description": "Memberimu kata-kata manis yang tak pernah kamu sampaikan"
+  },
+  {
+    "name": "Semut Overthinking",
+    "icon": "fa-ant",
+    "description": "Membuat masalah kecil jadi seperti gunung dalam pikiranmu"
+  },
+  {
+    "name": "Harimau Impulse",
+    "icon": "fa-tiger",
+    "description": "Membuatmu tiba-tiba beli barang yang tidak diperlukan"
+  },
+  {
+    "name": "Siput Bandwidth",
+    "icon": "fa-network-wired",
+    "description": "Memperlambat koneksi internet saat deadline mendekat"
+  },
+  {
+    "name": "Buaya Ghosting",
+    "icon": "fa-crocodile",
+    "description": "Membuatmu menghilang dari chat tanpa penjelasan"
+  },
+  {
+    "name": "Burung Hantu Begadang",
+    "icon": "fa-owl",
+    "description": "Memberimu ide brilian jam 3 pagi yang terlupakan besok paginya"
+  },
+  {
+    "name": "Angsa Drama",
+    "icon": "fa-feather",
+    "description": "Membuat status sosmed penuh kode tersirat"
+  },
+  {
+    "name": "Serigala Overthinking",
+    "icon": "fa-wolf",
+    "description": "Membuatmu memikirkan percakapan yang terjadi 5 tahun lalu"
+  },
+  {
+    "name": "Kura-kura Slow Response",
+    "icon": "fa-turtle",
+    "description": "Membalas chat setelah 3 hari berlalu"
+  },
+  {
+    "name": "Musang Keyboard Warrior",
+    "icon": "fa-keyboard",
+    "description": "Membuatmu berani berargumen di kolom komentar"
+  },
+  {
+    "name": "Kuda Nil Parno",
+    "icon": "fa-hippo",
+    "description": "Membuatmu merasa dibicarakan ketika teman tertawa"
+  },
+  {
+    "name": "Singa Kepedean",
+    "icon": "fa-lion",
+    "description": "Memberimu rasa percaya diri berlebih untuk slide ke DM"
+  },
+  {
+    "name": "Capung Distraksi",
+    "icon": "fa-dragonfly",
+    "description": "Membuatmu lupa tujuan awal membuka HP"
+  },
+  {
+    "name": "Badak Keras Kepala",
+    "icon": "fa-rhinoceros",
+    "description": "Membuatmu bersikeras pada pendapat meski sudah terbukti salah"
+  },
+  {
+    "name": "Luwak Kopi",
+    "icon": "fa-coffee",
+    "description": "Memberimu energi untuk begadang tanpa alasan jelas"
+  },
+  {
+    "name": "Trenggiling Malu",
+    "icon": "fa-shield",
+    "description": "Membuatmu menghindar saat bertemu kenalan di tempat umum"
+  },
+  {
+    "name": "Cicak Dinding",
+    "icon": "fa-lizard",
+    "description": "Menyaksikan semua aib dan rahasiamu dalam diam"
+  },
+  {
+    "name": "Lumba-lumba Overthinking",
+    "icon": "fa-dolphin",
+    "description": "Membuat otakmu berenang dalam pikiran tidak perlu"
+  },
+  {
+    "name": "Bunglon Mood Swing",
+    "icon": "fa-chameleon",
+    "description": "Mengubah mood-mu dari senang jadi sedih dalam sekejap"
+  },
+  {
+    "name": "Paus Blue Screen",
+    "icon": "fa-whale",
+    "description": "Membuat otakmu hang saat ditanya pertanyaan mendadak"
+  },
+  {
+    "name": "Kelinci Panik",
+    "icon": "fa-rabbit",
+    "description": "Membuatmu panik berlebihan untuk masalah sepele"
+  },
+  {
+    "name": "Domba Ikut-ikutan",
+    "icon": "fa-sheep",
+    "description": "Membuatmu mengikuti trend aneh tanpa alasan jelas"
+  },
+  {
+    "name": "Berang-berang Overthinking",
+    "icon": "fa-otter",
+    "description": "Membuatmu memikirkan hal-hal tidak penting sambil memeluk bantal"
+  },
+  {
+    "name": "Llama Drama",
+    "icon": "fa-llama",
+    "description": "Membuatmu meluapkan cerita dramatis di status medsos"
+  },
+  {
+    "name": "Rakun Begadang",
+    "icon": "fa-raccoon",
+    "description": "Membuat lingkaran hitam di mata karena scrolling hingga pagi"
+  },
+  {
+    "name": "Komodo Malas",
+    "icon": "fa-dragon",
+    "description": "Membuatmu tidak bergerak dari kasur seharian"
+  },
+  {
+    "name": "Macan Screenshot",
+    "icon": "fa-camera",
+    "description": "Membuatmu mengabadikan chat untuk bahan gosip"
+  },
+  {
+    "name": "Kasuari Overthinking",
+    "icon": "fa-bird",
+    "description": "Membuat pikiran liar dan berbahaya di kepalamu"
+  },
+  {
+    "name": "Walrus Ignore",
+    "icon": "fa-walrus",
+    "description": "Membuatmu mengabaikan pesan penting berjam-jam"
+  },
+  {
+    "name": "Gagak Spoiler",
+    "icon": "fa-crow",
+    "description": "Membuatmu memberikan spoiler film pada teman-temanmu"
+  },
+  {
+    "name": "Bekantan Jomblo",
+    "icon": "fa-monkey",
+    "description": "Membuatmu scroll foto couple sambil menghela nafas"
   }
 ]
